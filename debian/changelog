@@ -1,3 +1,9 @@
+spatialindex (1.9.3-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:19:05 +0800
+
 spatialindex (1.9.3-2) unstable; urgency=medium
 
   * Drop Name field from upstream metadata.
